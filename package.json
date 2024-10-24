@@ -1,5 +1,5 @@
 {
-  "name": "figma-react-icon",
+  "name": "@onenesslabs/figma-react-icon",
   "version": "0.0.1",
   "description": "OnenessLabs Team Icons",
   "main": "dist/juuust-react-icon.cjs.js",
